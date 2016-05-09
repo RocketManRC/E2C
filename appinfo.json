@@ -1,0 +1,32 @@
+{
+    "appKeys": {
+        "BEARING_KEY": 1,
+        "COURSE_KEY": 5,
+        "EASTING_KEY": 2,
+        "LOADSAVE_KEY": 4,
+        "NORTHING_KEY": 3,
+        "RANGE_KEY": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "RocketManRC",
+    "enableMultiJS": false,
+    "longName": "E2C",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "E2C",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "e307ca5e-a3ad-44ca-9cf4-718723f3f8b1",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}

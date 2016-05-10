@@ -17,4 +17,6 @@ The calculations for range and bearing and Lat/Lon to and from UTM are done on t
 
 NOTE: this app would have to be modified to use it in another area as it has the magnetic deviation and first digit of the Easting and first two digits of the Northing hard coded (should be fairly easy to find in the javascript file).
 
+DISCLAIMER: This app contains open source software from a variety of places and should be considered experimental. If you use this or a derivative for navigation it is entirely at your own risk. I used it successfully for the 2016 Eco-Endurance Challenge but also had a Garmin GPS receiver and map and compass.
+
 
